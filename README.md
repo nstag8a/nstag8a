@@ -3,7 +3,7 @@
 
 Here are some areas that are impotrant to me:
 
-- 🔭 I’m currently working as Business Analyst
+- 🔭 I’m currently Service Desk Agent
 - 🌱 I’m currently undertaking my Bachelors of Applied Information Technology (Software Engineering)
 - 👯 I’m looking to collaborate on App and Software Development
 - 🤔 I’m looking for help with future collaborations an projects
