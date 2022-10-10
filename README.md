@@ -1,7 +1,5 @@
-### Hi there 👋
-**nstag8a/nstag8a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some areas that are impotrant to me:
+  Hi there ✌️
+  My Name is Germaine Matenga and here are a few things about me:
 
 - ⭐ I’m currently Service Desk Agent.
 
